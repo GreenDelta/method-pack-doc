@@ -2,7 +2,7 @@
 
 This is the main repository for the documentation of the [openLCA LCIA Method Pack](https://nexus.openlca.org/database/openLCA%20LCIA%20methods).
 
-The documentation is created using [mdBook](https://rust-lang.github.io/mdBook/index.html) and can be browsed on its Github page: 
+The documentation is created using [mdBook](https://rust-lang.github.io/mdBook/index.html) and can be browsed on its Github page: https://github.com/GreenDelta/method-pack-doc/.
 
 In order to publish your changes to the manual, make sure that the `main` branch is up to date and click on _Run workflow_ on the [Deploy mdBook site to Pages](https://github.com/GreenDelta/openLCA2-manual/actions/workflows/mdbook.yml).
 
