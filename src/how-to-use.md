@@ -2,9 +2,9 @@
 
 <div style='text-align: justify;'>
 
-This manual focuses on openLCA 2, our latest version of the software. It elaborates on the new features and explains how to carry out the first steps in working with openLCA such as installation and importing databases. Further, this document provides an overview of openLCA operations and features including descriptions of how to use them. 
+[INTRO ABOUT THE DOCUMENTATION]
 
-This manual is generated with [mdBook](https://github.com/rust-lang/mdBook/releases) and allows you to navigate through the book chapters:
+This documentation manual is generated with [mdBook](https://github.com/rust-lang/mdBook/releases) and allows you to navigate through the book chapters:
 
 The left **sidebar** displays all chapters. Clicking on a chapter title loads to that specific page. The sub-chapters are collapsible, click on the arrow on the chapter title's right to display all of them. You can also browse them on the [Table of Content](./toc.md).
 
